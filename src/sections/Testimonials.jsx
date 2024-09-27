@@ -1,3 +1,4 @@
+import React from "react";
 import Testimonialtem from "../components/Testimonialtem";
 import { testimonials } from "../constants";
 

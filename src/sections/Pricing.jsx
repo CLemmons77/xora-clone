@@ -1,5 +1,5 @@
-import { Element } from "react-scroll";
 import React, { useState } from "react";
+import { Element } from "react-scroll";
 import { plans } from "../constants";
 import clsx from "clsx";
 import CountUp from "react-countup";
